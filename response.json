@@ -1,0 +1,231 @@
+{
+    "data": {
+        "exitEmployee": {
+            "byBu": [
+                {
+                    "buId": 5,
+                    "buTotal": 7,
+                    "count": {
+                        "23Apr": 7,
+                        "22Dec": 0,
+                        "23Jan": 0,
+                        "23Feb": 0,
+                        "23Mar": 0,
+                        "23May": 0
+                    }
+                },
+                {
+                    "buId": 6,
+                    "buTotal": 5,
+                    "count": {
+                        "23Apr": 4,
+                        "23Mar": 1,
+                        "22Dec": 0,
+                        "23Jan": 0,
+                        "23Feb": 0,
+                        "23May": 0
+                    }
+                },
+                {
+                    "buId": 3,
+                    "buTotal": 7,
+                    "count": {
+                        "23Apr": 1,
+                        "23Mar": 6,
+                        "22Dec": 0,
+                        "23Jan": 0,
+                        "23Feb": 0,
+                        "23May": 0
+                    }
+                },
+                {
+                    "buId": 1,
+                    "buTotal": 2,
+                    "count": {
+                        "23Apr": 1,
+                        "23Mar": 1,
+                        "22Dec": 0,
+                        "23Jan": 0,
+                        "23Feb": 0,
+                        "23May": 0
+                    }
+                },
+                {
+                    "buId": 2,
+                    "buTotal": 3,
+                    "count": {
+                        "23Feb": 2,
+                        "23Mar": 1,
+                        "22Dec": 0,
+                        "23Jan": 0,
+                        "23Apr": 0,
+                        "23May": 0
+                    }
+                },
+                {
+                    "buId": 9,
+                    "buTotal": 1,
+                    "count": {
+                        "23Feb": 1,
+                        "22Dec": 0,
+                        "23Jan": 0,
+                        "23Mar": 0,
+                        "23Apr": 0,
+                        "23May": 0
+                    }
+                },
+                {
+                    "buId": 4,
+                    "buTotal": 5,
+                    "count": {
+                        "23Mar": 5,
+                        "22Dec": 0,
+                        "23Jan": 0,
+                        "23Feb": 0,
+                        "23Apr": 0,
+                        "23May": 0
+                    }
+                },
+                {
+                    "buId": 10,
+                    "buTotal": 1,
+                    "count": {
+                        "23Mar": 1,
+                        "22Dec": 0,
+                        "23Jan": 0,
+                        "23Feb": 0,
+                        "23Apr": 0,
+                        "23May": 0
+                    }
+                },
+                {
+                    "buId": 8,
+                    "buTotal": 2,
+                    "count": {
+                        "23Mar": 2,
+                        "22Dec": 0,
+                        "23Jan": 0,
+                        "23Feb": 0,
+                        "23Apr": 0,
+                        "23May": 0
+                    }
+                }
+            ],
+            "total": 33
+        },
+        "newEmployee": {
+            "byBu": [
+                {
+                    "buId": 5,
+                    "buTotal": 2,
+                    "count": {
+                        "23Apr": 1,
+                        "23Mar": 1,
+                        "23May": 0,
+                        "23Feb": 0,
+                        "23Jan": 0,
+                        "22Dec": 0
+                    }
+                },
+                {
+                    "buId": 6,
+                    "buTotal": 5,
+                    "count": {
+                        "23Apr": 2,
+                        "23Mar": 3,
+                        "23May": 0,
+                        "23Feb": 0,
+                        "23Jan": 0,
+                        "22Dec": 0
+                    }
+                },
+                {
+                    "buId": 12,
+                    "buTotal": 9,
+                    "count": {
+                        "23Apr": 2,
+                        "23Mar": 6,
+                        "23May": 1,
+                        "23Feb": 0,
+                        "23Jan": 0,
+                        "22Dec": 0
+                    }
+                },
+                {
+                    "buId": 2,
+                    "buTotal": 4,
+                    "count": {
+                        "23Apr": 2,
+                        "23Feb": 1,
+                        "23May": 1,
+                        "23Mar": 0,
+                        "23Jan": 0,
+                        "22Dec": 0
+                    }
+                },
+                {
+                    "buId": 4,
+                    "buTotal": 3,
+                    "count": {
+                        "23Apr": 1,
+                        "23Feb": 2,
+                        "23May": 0,
+                        "23Mar": 0,
+                        "23Jan": 0,
+                        "22Dec": 0
+                    }
+                },
+                {
+                    "buId": 3,
+                    "buTotal": 3,
+                    "count": {
+                        "23Apr": 1,
+                        "23Mar": 2,
+                        "23May": 0,
+                        "23Feb": 0,
+                        "23Jan": 0,
+                        "22Dec": 0
+                    }
+                },
+                {
+                    "buId": 11,
+                    "buTotal": 1,
+                    "count": {
+                        "23Feb": 1,
+                        "23May": 0,
+                        "23Apr": 0,
+                        "23Mar": 0,
+                        "23Jan": 0,
+                        "22Dec": 0
+                    }
+                },
+                {
+                    "buId": 10,
+                    "buTotal": 3,
+                    "count": {
+                        "23Mar": 3,
+                        "23May": 0,
+                        "23Apr": 0,
+                        "23Feb": 0,
+                        "23Jan": 0,
+                        "22Dec": 0
+                    }
+                }
+            ],
+            "total": 30
+        },
+        "intervalArray": [
+            "23May",
+            "23Apr",
+            "23Mar",
+            "23Feb",
+            "23Jan",
+            "22Dec"
+        ]
+    },
+    "meta": {
+        "startDate": "2022-12-17 00:00:00",
+        "endDate": "2023-05-17 23:59:59",
+        "interval": "month"
+    }
+}
